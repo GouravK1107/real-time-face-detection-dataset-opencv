@@ -1,1 +1,4 @@
-# real-time-face-detection-dataset-opencv
+# Real-Time Face Detection and Dataset Collection System using OpenCV <br>
+This project implements a real-time face detection and structured dataset generation system using OpenCV’s Haar Cascade algorithm. The application captures live webcam input, detects facial regions, extracts grayscale face data, and stores multiple samples per user in an organized directory structure. The system simulates a basic login mechanism by detecting facial presence and providing instant visual feedback.
+
+The project highlights practical implementation of classical computer vision techniques including feature-based detection, frame-by-frame video processing, image matrix manipulation, and automated dataset creation. It lays the groundwork for extending the system into a full face recognition and AI-based authentication pipeline.
