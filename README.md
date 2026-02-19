@@ -80,3 +80,13 @@ The recognition system:
 - Real-time prediction pipeline
 
 ---
+
+## 👨‍💻 Author
+
+Gourav K  
+BCA Student | Backend & AI Enthusiast  
+Focused on mastering Computer Vision & AI systems.
+
+---
+
+⭐ If you found this project useful, consider starring the repository!
