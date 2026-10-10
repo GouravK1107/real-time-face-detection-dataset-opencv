@@ -8,6 +8,11 @@ A real-time face detection and dataset generation system built with OpenCV's Haa
 
 ---
 
+> 🎓 **Project Type: Learning**
+>
+> This project is built for learning purposes. I created it to understand and practice new concepts, tools, and technologies. The code may not follow production-level standards, and it's a work in progress as I keep exploring and improving.
+
+
 ## 🚀 Overview
 
 This started as a basic face-detection + dataset-collection tool and was extended into a complete pipeline:
